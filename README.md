@@ -2,10 +2,10 @@
 
 Repositório de projetos feitos em java durante meu aprendizado nas aulas do Curso em Vídeo ministradas pelo professor Gustavo Guanabara.
 
-#### Tecnologias utilizadas:
+### Tecnologias utilizadas:
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
 
 
-#### Playlist do curso: 
+### Playlist do curso: 
 [Curso de Java](https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&ab_channel=CursoemV%C3%ADdeo)
  
